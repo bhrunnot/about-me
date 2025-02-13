@@ -7,10 +7,12 @@ Tenho 27 anos e sou bacharelado em Ciência da Computação pelo Centro Universi
 Perfil para registrar e compartilhar minhas experiências.
 
 ## Technologies
-- Front - End com             - Back - End com -
-- HTML, 		      - Banco de Dados
-- CSS, 		              - Python
-- JS
+
+| Front-End        | Back-End        |
+|-----------------|----------------|
+| HTML           | Banco de Dados  |
+| CSS            | Python          |
+| JS             |                 |
 
 
 **Languages and Tools:**  
@@ -18,6 +20,10 @@ Perfil para registrar e compartilhar minhas experiências.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png
+"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png
+"></code>
 
 ### Reach me out: <br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cardosofvanessa/)](https://www.linkedin.com/in/bruno-freitas-0344441a3/) 
