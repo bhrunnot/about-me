@@ -1,16 +1,17 @@
 # <a href="https://www.linkedin.com/in/bruno-freitas-0344441a3/" target="_blank">Bruno Freitas</a>
  
 ## About Me
-Tenho 25 anos e sou bacharelado em Ciência da Computação pelo Centro Universitário do Piauí - UNIFAPI (Teresina, PI), formado em 2021. Atualmente, sou estudante em tecnologias como HTML, CSS e JS!
+Tenho 27 anos e sou bacharelado em Ciência da Computação pelo Centro Universitário do Piauí - UNIFAPI (Teresina, PI), formado em 2021. Atualmente, sou estudante em tecnologias como Banco de Dados e Python!
 <br>
 
 Perfil para registrar e compartilhar minhas experiências.
 
 ## Technologies
-- Front - End com 
-- HTML, 
-- CSS, 
+- Front - End com             - Back - End com -
+- HTML, 		      - Banco de Dados
+- CSS, 		              - Python
 - JS
+
 
 **Languages and Tools:**  
 
@@ -20,5 +21,5 @@ Perfil para registrar e compartilhar minhas experiências.
 
 ### Reach me out: <br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cardosofvanessa/)](https://www.linkedin.com/in/bruno-freitas-0344441a3/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosovanessafs@gmail.com)](mailto:bhrunno.14.f@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cardosovanessafs@gmail.com)](mailto:bhrunnot@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vcardoso_/)](https://www.instagram.com/brunnof._/)
